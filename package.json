@@ -1,0 +1,20 @@
+{
+  "name": "reptilian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reptilian.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Antti Salonen <as.salonen@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "crawler": "^0.4.3",
+    "express-runner": "^1.0.0",
+    "lodash": "^4.16.4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
